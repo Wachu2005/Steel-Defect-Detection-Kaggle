@@ -9,21 +9,24 @@ Goal of this Competition was to create a model that indecates various types of d
 ## Screenshots
 
 
-![alt text](https://imgur.com/o3fX4Pm)
+![alt text](https://github.com/Wachu2005/Steel-Defect-Detection-Kaggle/blob/master/READ%20ME%20IMAGES/Zrzut%20ekranu%202023-03-19%20141758.png)
 
-![alt text](https://github.com/Wachu2005/Chess-Pieces-Detection-System/blob/master/Readme%20images/Chesspiecesdetection2.jpg)
+![alt text](https://github.com/Wachu2005/Steel-Defect-Detection-Kaggle/blob/master/READ%20ME%20IMAGES/Steel%20Defect%20accuracy.png)
 
-![alt text](https://github.com/Wachu2005/Chess-Pieces-Detection-System/blob/master/Readme%20images/Images-7b3404ea-b5e6-11ed-9ed5-b42e99eb25df_jpg.rf.dcdb9c3461c9dcb0e068bea9ac1f230a.jpg)
+![alt text](https://github.com/Wachu2005/Steel-Defect-Detection-Kaggle/blob/master/READ%20ME%20IMAGES/Zrzut%20ekranu%202023-03-19%20141715.png)
 
 
 ## Tech Stack
 
 Python,
 OpenCV,
-Roboflow,
-PyTorch,
+TensorFlow,
+Keras,
 Numpy,
-Google colab,
+Pandas,
+Matplotlib,
 Jupyter Notebook
+
+
 
 
