@@ -3,7 +3,7 @@
 
 https://www.kaggle.com/c/severstal-steel-defect-detection
 
-Goal of this Competition was to create a model that indecates various types of defect in steel based on images. I designed and built convolutional neural network that predictes one of 5 classes, 0 is non defect. My accuracy on last epoch was 90% but unfortunately i can't access real accuracy from my submission.csv file because this Competition is closed.
+Goal of this Competition was to create a model that indecates various types of defect in steel based on images. I designed and built convolutional neural network that predictes one of 5 classes, 0 is non defect. My accuracy on last epoch was 91% but unfortunately i can't access real accuracy from my submission.csv file because this Competition is closed.
 
 
 ## Screenshots
